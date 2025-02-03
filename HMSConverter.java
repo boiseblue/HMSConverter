@@ -22,7 +22,6 @@ public class HMSConverter
         totalSeconds = (numHours * 3600) + (numMinutes * 60) + numSeconds;
 
 		System.out.println("Total seconds: " + totalSeconds);
-
    	}
 }
 
